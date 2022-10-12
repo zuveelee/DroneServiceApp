@@ -1,0 +1,11 @@
+D:\C Sharp Two\AT3\DroneServiceApplication\bin\Debug\DroneServiceApplication.exe.config
+D:\C Sharp Two\AT3\DroneServiceApplication\bin\Debug\DroneServiceApplication.exe
+D:\C Sharp Two\AT3\DroneServiceApplication\bin\Debug\DroneServiceApplication.pdb
+D:\C Sharp Two\AT3\DroneServiceApplication\obj\Debug\DroneServiceApplication.csproj.AssemblyReference.cache
+D:\C Sharp Two\AT3\DroneServiceApplication\obj\Debug\DroneServiceApplication.csproj.SuggestedBindingRedirects.cache
+D:\C Sharp Two\AT3\DroneServiceApplication\obj\Debug\DroneServiceApplication.DroneFrom.resources
+D:\C Sharp Two\AT3\DroneServiceApplication\obj\Debug\DroneServiceApplication.Properties.Resources.resources
+D:\C Sharp Two\AT3\DroneServiceApplication\obj\Debug\DroneServiceApplication.csproj.GenerateResource.cache
+D:\C Sharp Two\AT3\DroneServiceApplication\obj\Debug\DroneServiceApplication.csproj.CoreCompileInputs.cache
+D:\C Sharp Two\AT3\DroneServiceApplication\obj\Debug\DroneServiceApplication.exe
+D:\C Sharp Two\AT3\DroneServiceApplication\obj\Debug\DroneServiceApplication.pdb
